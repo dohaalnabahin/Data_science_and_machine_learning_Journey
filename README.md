@@ -6,3 +6,9 @@ A comprehensive repository documenting my Python learning journey, including det
 
 [Lesson 2:Python Basics DataTypes](Python_Basics_DataTypes.ipynb)
 
+
+[Lesson 3:Python Syntax](UPython_Syntax.ipynb)
+
+
+
+
