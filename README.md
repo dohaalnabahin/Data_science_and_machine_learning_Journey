@@ -25,6 +25,10 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 8: Bank project ](Assignment_Bank_Account.ipynb)
 
 
+[Lesson 8:  Smart Coffe](SmartCoffeeShop.ipynb)
+
+
+
 
 
 
