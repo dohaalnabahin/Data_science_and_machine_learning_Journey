@@ -37,6 +37,10 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 11: Class Association](Class_Association.ipynb)
 
 
+[Lesson 12: E Commerce System](E_Commerce_System.ipynb)
+
+
+
 
 
 
