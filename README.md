@@ -40,6 +40,9 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 12: E Commerce System](E_Commerce_System.ipynb)
 
 
+[Lesson 13: E Smart Library System](Smart_Library_System.ipynb)
+
+
 
 
 
