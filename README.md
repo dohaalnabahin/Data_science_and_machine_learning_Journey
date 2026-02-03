@@ -46,6 +46,10 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 14: Declaring Variables and Primitive Data Types](Declaring_Variables_and_Primitive_Data_Types.ipynb)
 
 
+[Lesson 15: Variables and Primitive Data Types Practice](Copy_of_Variables_and_Primitive_Data_Types.ipynb)
+
+
+
 
 
 
