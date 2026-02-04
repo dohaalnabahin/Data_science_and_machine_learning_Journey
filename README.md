@@ -49,6 +49,16 @@ A comprehensive repository documenting my Python learning journey, including det
 [Lesson 15: Variables and Primitive Data Types Practice](Copy_of_Variables_and_Primitive_Data_Types.ipynb)
 
 
+[Lesson 16: Functional Programming and OOP](Functional_Programming_and_OOP.ipynb)
+
+
+
+
+
+
+
+
+
 
 
 
