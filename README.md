@@ -72,6 +72,14 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 23:Student Grades project](Student_Grades.ipynb)
 
 
+[Lesson 24:water list project](water_list.ipynb)
+
+
+
+
+water_list
+
+
 
 
 
