@@ -66,7 +66,11 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 21: custom function](custom_function.ipynb)
 
 
-[Lesson 22: Travel Budget](Travel_Budget.ipynb)
+[Lesson 22: Travel Budget project](Travel_Budget.ipynb)
+
+
+[Lesson 23:Student Grades project](Student_Grades.ipynb)
+
 
 
 
