@@ -63,6 +63,9 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 
 [Lesson 20: Intro to Custom Functions](Intro_to_Custom_Functions.ipynb)
 
+[Lesson 21: custom_function](custom_function.ipynb)
+
+
 
 
 
