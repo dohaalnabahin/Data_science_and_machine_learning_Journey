@@ -90,6 +90,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 29:markdown](sets.ipynb)
 
 
+[Lesson 30:while loop](while_loop.ipynb)
+
+
+
 
 
 
