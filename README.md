@@ -96,6 +96,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 31: intro to pandas dataframe](intro_to_pandas_dataframe.ipynb)
 
 
+[Lesson 32: loading data](loading_data.ipynb)
+
+
+
 
 
 
