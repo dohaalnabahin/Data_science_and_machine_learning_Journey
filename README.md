@@ -93,6 +93,9 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 30:while loop](while_loop.ipynb)
 
 
+[Lesson 31: intro to pandas dataframe](intro_to_pandas_dataframe.ipynb)
+
+
 
 
 
