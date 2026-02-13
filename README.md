@@ -99,6 +99,14 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 32: loading data](loading_data.ipynb)
 
 
+[Lesson 33: pandas dataframe](pandas_dataframe.ipynb)
+
+
+[Lesson 34: Titanic Datasete xample](Titanic_Dataset_example.ipynb)
+
+
+
+
 
 
 
