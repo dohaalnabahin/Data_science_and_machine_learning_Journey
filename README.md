@@ -108,6 +108,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 35: slicing](slicing.ipynb)
 
 
+[Lesson 35: Pandas Groupby](Pandas_Groupby.ipynb)
+
+
+
 
 
 
