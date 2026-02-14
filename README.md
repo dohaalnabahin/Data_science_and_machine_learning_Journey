@@ -105,7 +105,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 34: Titanic Datasete xample](Titanic_Dataset_example.ipynb)
 
 
-[Lesson 35: slicing](slicing.ipynb)
+[Lesson 35: slicing & filtring](slicing.ipynb)
 
 
 [Lesson 36: Pandas Groupby](Pandas_Groupby.ipynb)
