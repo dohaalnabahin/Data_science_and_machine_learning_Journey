@@ -114,6 +114,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 37:Data Cleaning](stakeholders.ipynb)
 
 
+[Lesson 38:Exploratory Data Viz](Exploratory_Data_Viz.ipynb)
+
+
+
 
 
 
