@@ -120,6 +120,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 39:Histogram](histogram.ipynb)
 
 
+[Lesson 40:Boxplots](Boxplots.ipynb)
+
+
+
 
 
 
