@@ -123,7 +123,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 40:Boxplots](Boxplots.ipynb)
 
 
-[Lesson 40:Univariate Categorical Plots](Univariate_Categorical_Plots.ipynb)
+[Lesson 41:Univariate Categorical Plots](Univariate_Categorical_Plots.ipynb)
 
 
 
