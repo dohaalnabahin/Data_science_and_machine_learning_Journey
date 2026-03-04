@@ -117,6 +117,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 38:Exploratory Data Viz](Exploratory_Data_Viz.ipynb)
 
 
+[Lesson 39:Histogram](histogram.ipynb)
+
+
+
 
 
 
