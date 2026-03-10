@@ -126,6 +126,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 41:Univariate Categorical Plots](Univariate_Categorical_Plots.ipynb)
 
 
+[Lesson 42:Multivariate_Categorical_Plots](Multivariate_Categorical_Plots.ipynb)
+
+
+
 
 
 
