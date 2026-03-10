@@ -123,10 +123,13 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 40:Boxplots](Boxplots.ipynb)
 
 
-[Lesson 41:Univariate Categorical Plots](Univariate_Categorical_Plots.ipynb)
+[Lesson 41:Univariate_Categorical_Plots](Univariate_Categorical_Plots.ipynb)
 
 
-[Lesson 42:Multivariate_Categorical_Plots](Multivariate_Categorical_Plots.ipynb)
+[Lesson 42:Bar_Plots + Regression Plots + Correlation and Heat Maps](Bar_Plots.ipynb)
+
+
+[Lesson 43:Multivariate_Categorical_Plots](Multivariate_Categorical_Plots.ipynb)
 
 
 
