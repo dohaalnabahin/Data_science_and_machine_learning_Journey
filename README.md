@@ -135,6 +135,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 44:Customizing_Plots](Customizing_Plots.ipynb)
 
 
+[Lesson 45:Matplotlib_Styles](Matplotlib_Styles.ipynb)
+
+
+
 
 
 
