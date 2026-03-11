@@ -132,6 +132,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 43:Multivariate_Categorical_Plots](Multivariate_Categorical_Plots.ipynb)
 
 
+[Lesson 44:Customizing_Plots](Customizing_Plots.ipynb)
+
+
+
 
 
 
