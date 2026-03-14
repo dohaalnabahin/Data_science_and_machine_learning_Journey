@@ -147,6 +147,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 47:Combining_Plots](Combining_Plots.ipynb)
 
 
+[Lesson 47:Annotating_Histograms](Annotating_Histograms.ipynb)
+
+
+
 
 
 
