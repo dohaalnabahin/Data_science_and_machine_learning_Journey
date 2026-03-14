@@ -141,6 +141,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 46:Saving_Plots_to_Files](Saving_Plots_to_Files.ipynb)
 
 
+[Lesson 47:Multiple_Subplots_Graphs_with_More_than_One_Subplot](Multiple_Subplots_Graphs_with_More_than_One_Subplot.ipynb)
+
+
+
 
 
 
