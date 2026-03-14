@@ -144,6 +144,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 47:Multiple_Subplots_Graphs_with_More_than_One_Subplot](Multiple_Subplots_Graphs_with_More_than_One_Subplot.ipynb)
 
 
+[Lesson 47:Combining_Plots](Combining_Plots.ipynb)
+
+
+
 
 
 
