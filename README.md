@@ -150,6 +150,14 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 47:Annotating_Histograms](Annotating_Histograms.ipynb)
 
 
+[Lesson 48:EDA_Functions_and_Inspecting_Features](EDA_Functions_and_Inspecting_Features.ipynb)
+
+
+[Lesson 49:Bootcamp_Functions](Bootcamp_Functions.ipynb)
+
+
+
+
 
 
 
