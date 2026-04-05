@@ -156,6 +156,23 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 49:Bootcamp_Functions](Bootcamp_Functions.ipynb)
 
 
+[Lesson 50:Introduction_to_Machine-Learning](Introduction_to_Machine-Learning.ipynb)
+
+
+[Lesson 52:Pipelines](Pipelines.ipynb.ipynb)
+
+
+[Lesson 53:Column_Transformers](Column_Transformers.ipynb)
+
+
+[Lesson 54:Column_Transformers](Column_Transformers.ipynb)
+
+
+
+
+
+
+
 
 
 
