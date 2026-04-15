@@ -171,40 +171,40 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 55:Regression_Metrics and Regression Evaluation Functions](Regression_Metrics.ipynb)
 
 
-[Lesson 56:Model_Pipelines](Regression_Metrics.ipynb)
+[Lesson 56:Model_Pipelines](Model_Pipelines.ipynb)
 
 
-[Lesson 57:Regression_Trees_in_Python](Regression_Metrics.ipynb)
+[Lesson 57:Regression_Trees_in_Python](Regression_Trees_in_Python.ipynb)
 
 
-[Lesson 58:GridSearchCV](Regression_Metrics.ipynb)
+[Lesson 58:GridSearchCV](GridSearchCV.ipynb)
 
 
-[Lesson 59:GridSearch_and_Model_Pipelines](Regression_Metrics.ipynb)
+[Lesson 59:GridSearch_and_Model_Pipelines](GridSearch_and_Model_Pipelines.ipynb)
 
 
-[Lesson 60:NEW_Saving_and_Loading_Models(joblib)](Regression_Metrics.ipynb)
+[Lesson 60:NEW_Saving_and_Loading_Models(joblib)](NEW_Saving_and_Loading_Models(joblib).ipynb)
 
 
-[Lesson 61:Bagged_Trees_in_Python](Regression_Metrics.ipynb)
+[Lesson 61:Bagged_Trees_in_Python](Bagged_Trees_in_Python.ipynb)
 
 
-[Lesson 62:Random_Forests_in_Python](Regression_Metrics.ipynb)
+[Lesson 62:Random_Forests_in_Python](Random_Forests_in_Python.ipynb)
 
 
-[Lesson 63:Update_EDA_Functions_for_Classification_1](Regression_Metrics.ipynb)
+[Lesson 63:Update_EDA_Functions_for_Classification_1](Update_EDA_Functions_for_Classification_1.ipynb)
 
 
-[Lesson 64:Update_EDA_Functions_for_Classification_2](Regression_Metrics.ipynb)
+[Lesson 64:Update_EDA_Functions_for_Classification_2](Update_EDA_Functions_for_Classification_2.ipynb)
 
 
-[Lesson 65 :Classification_Trees_in_Python](Regression_Metrics.ipynb)
+[Lesson 65 :Classification_Trees_in_Python](Classification_Trees_in_Python.ipynb)
 
 
-[Lesson 66:Confusion_Matrices_in_Python](Regression_Metrics.ipynb)
+[Lesson 66:Confusion_Matrices_in_Python + Classification Evaluation Functions +Classification Metrics](Confusion_Matrices_in_Python.ipynb)
 
 
-[Lesson 65:Multiclassification](Regression_Metrics.ipynb)
+[Lesson 65:Multiclassification](Multiclassification.ipynb)
 
 
 
