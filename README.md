@@ -156,7 +156,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 49:Bootcamp_Functions](Bootcamp_Functions.ipynb)
 
 
-[Lesson 50:Introduction_to_Machine-Learning](Introduction_to_Machine-Learning.ipynb)
+[Lesson 50:Introduction_to_Machine-Learning](Introduction_toML.ipynb)
 
 
 [Lesson 52:Pipelines](Pipelines.ipynb.ipynb)
