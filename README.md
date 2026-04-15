@@ -159,7 +159,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 50:Introduction_to_Machine-Learning](Introduction_toML_.ipynb)
 
 
-[Lesson 52:Pipelines](Pipelines.ipynb.ipynb)
+[Lesson 52:Pipelines](Pipelines.ipynb)
 
 
 [Lesson 53:Column_Transformers](Column_Transformers.ipynb)
