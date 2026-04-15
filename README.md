@@ -165,10 +165,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 53:Column_Transformers](Column_Transformers.ipynb)
 
 
-[Lesson 54:Linear_Regression_in_Python.ipynb](Linear_Regression_in_Python.ipynb)
+[Lesson 54:Linear_Regression_in_Python](Linear_Regression_in_Python.ipynb)
 
 
-[Lesson 55:Regression_Metrics.ipynb](Regression_Metrics.ipynb)
+[Lesson 55:Regression_Metrics and Regression Evaluation Functions](Regression_Metrics.ipynb)
 
 
 
