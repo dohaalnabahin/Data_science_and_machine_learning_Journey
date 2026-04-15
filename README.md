@@ -168,7 +168,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 54:Linear_Regression_in_Python.ipynb](Linear_Regression_in_Python.ipynb)
 
 
-[Lesson 55:Regression_Metrics.ipynb](Regression_Metrics.ipynb.ipynb)
+[Lesson 55:Regression_Metrics.ipynb](RRegression_Metrics.ipynb)
 
 
 
