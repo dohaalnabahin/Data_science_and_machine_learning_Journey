@@ -19,7 +19,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 6 : OOP (Object Oriented Programming) ](OOP_(Object_Oriented_Programming).ipynb)
 
 
-[Lesson 7 : How to create user class ](Assignment_create_User_calss.ipynb)
+[Lesson 7 : How to create user class ](Assignment_User_.ipynb)
 
 
 [Lesson 8: Bank project ](Assignment_Bank_Account.ipynb)
