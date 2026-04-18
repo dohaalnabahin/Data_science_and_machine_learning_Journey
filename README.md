@@ -31,7 +31,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 9: Fitness Tracker](Fitness_Tracker.ipynb)
 
 
-[Lesson 10: Patient Check-in](Patient_Check-in.ipynb)
+[Lesson 10: Patient Check-in](Patient_Check_in.ipynb)
 
 
 [Lesson 11: Class Association](Class_Association.ipynb)
