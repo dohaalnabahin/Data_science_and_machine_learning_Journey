@@ -87,7 +87,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 28:markdown](markdown.ipynb)
 
 
-[Lesson 29:markdown](sets.ipynb)
+[Lesson 29:Sets](sets.ipynb)
 
 
 [Lesson 30:while loop](while_loop.ipynb)
