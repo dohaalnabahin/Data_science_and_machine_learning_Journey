@@ -204,7 +204,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 66:Confusion_Matrices_in_Python + Classification Evaluation Functions +Classification Metrics](Confusion_Matrices_in_Python.ipynb)
 
 
-[Lesson 65:Multiclassification ( intro_to_pandas_dataframe.ipynb)](Multiclassification.ipynb)
+[Lesson 65:Multiclassification](Multiclassification.ipynb)
 
 
 [Lesson 66:KNN](KNN.ipynb)
@@ -213,7 +213,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 67:KNN_(Practice)](KNN_(Practice).ipynb)
 
 
-[Lesson 68:Logistic_Regression( intro_to_pandas_dataframe.ipynb)](Multiclassification.ipynb)
+[Lesson 68:Logistic_Regression](Logistic_Regression.ipynb)
 
 
 
