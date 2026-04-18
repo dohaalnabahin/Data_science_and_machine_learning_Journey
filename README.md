@@ -16,7 +16,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 5 :Funcation Exercises ](Assignment_(funcation).ipynb)
 
 
-[Lesson 6 : OOP (Object Oriented Programming) ](OOP(Object_Oriented_Programming).ipynb)
+[Lesson 6 : OOP (Object Oriented Programming) ](OOP_(Object_Oriented_Programming).ipynb)
 
 
 [Lesson 7 : How to create user class ](Assignment_create_User_calss.ipynb)
