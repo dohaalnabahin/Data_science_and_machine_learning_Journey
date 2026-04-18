@@ -81,7 +81,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 26:mean Median mode](mean_Median_mode.ipynb)
 
 
-[Lesson 27:Central Tendency Functions](Central_Tendency_Functions.ipynb)
+[Lesson 27:Central Tendency Functions](Central_Tendency_Functions_ass6.ipynb)
 
 
 [Lesson 28:markdown](markdown.ipynb)
