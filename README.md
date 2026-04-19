@@ -150,7 +150,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 47:Annotating_Histograms](Annotating_Histograms.ipynb)
 
 
-[Lesson 48:EDA_Functions_and_Inspecting_Features](EDA_Functions_and_Inspecting_Features.ipynb)
+[Lesson 48:EDA_Functions_and_Inspecting_Features](EDA_Functions_and_Inspecting_Features_.ipynb)
 
 
 [Lesson 49:Bootcamp_Functions](Bootcamp_Functions.ipynb)
@@ -214,6 +214,10 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 
 
 [Lesson 68:Logistic_Regression](Logistic_Regression.ipynb)
+
+
+[Lesson 69:Purpose_of_L1_or_L2_Regularization](Logistic_Regression.ipynb)
+
 
 
 
