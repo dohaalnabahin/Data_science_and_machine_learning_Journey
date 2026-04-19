@@ -216,7 +216,7 @@ A comprehensive repository documenting my Data sience Journey, including detaile
 [Lesson 68:Logistic_Regression](Logistic_Regression.ipynb)
 
 
-[Lesson 69:Purpose_of_L1_or_L2_Regularization](Logistic_Regression.ipynb)
+[Lesson 69:Purpose_of_L1_or_L2_Regularization](Purpose_of_L1_or_L2_Regularization.ipynb)
 
 
 
