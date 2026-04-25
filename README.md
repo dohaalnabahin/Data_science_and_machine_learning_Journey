@@ -139,6 +139,8 @@
 |---------|-------------|-------|------|
 | 🏦 Loan Default Prediction | Predict loan defaults using ML classification models | Logistic Regression, Random Forest, KNN | [🔗 View Project](https://github.com/dohaalnabahin/Loan-Default-Prediction) |
 
+| 🛒 Prediction of Product Sales | Analyze food item sales to identify key factors driving product performance | Pandas, Seaborn, Matplotlib | [🔗 View Project](https://github.com/dohaalnabahin/Prediction-of-Product-Sales) |
+
 ---
 
 ## 📬 Connect
