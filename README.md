@@ -1,311 +1,153 @@
-# Data sience and machine learning Journey
-A comprehensive repository documenting my Data sience Journey, including detailed notes, code examples, and practical exercises as part of my advanced studies in Data Science and AI
-
-[Lesson 1 : Introduction to Python](About_Python.ipynb)
-
-
-[Lesson 2 :Python Basics DataTypes](Python_Basics_DataTypes.ipynb)
-
-
-[Lesson 3 :Python Syntax](UPython_Syntax.ipynb)
-
-
-[Lesson 4 :Funcation ](Funcation.ipynb)
-
-
-[Lesson 5 :Funcation Exercises ](Assignment_(funcation).ipynb)
-
-
-[Lesson 6 : OOP (Object Oriented Programming) ](OOP_(Object_Oriented_Programming).ipynb)
-
-
-[Lesson 7 : How to create user class ](Assignment_User_.ipynb)
-
-
-[Lesson 8: Bank project ](Assignment_Bank_Account.ipynb)
-
-
-[Lesson 8:  Smart Coffe](SmartCoffeeShop.ipynb)
-
-
-[Lesson 9: Fitness Tracker](Fitness_Tracker.ipynb)
-
-
-[Lesson 10: Patient Check-in](Patient_Check_in.ipynb)
-
-
-[Lesson 11: Class Association](Class_Association.ipynb)
-
-
-[Lesson 12: E Commerce System](E_Commerce_System.ipynb)
-
-
-[Lesson 13: E Smart Library System](Smart_Library_System.ipynb)
-
-
-[Lesson 14: Declaring Variables and Primitive Data Types](Declaring_Variables_and_Primitive_Data_Types.ipynb)
-
-
-[Lesson 15: Variables and Primitive Data Types Practice](Variables_and_Primitive_Data_Types.ipynb)
-
-
-[Lesson 16: Functional Programming and OOP](Functional_Programming_and_OOP.ipynb)
-
-
-[Lesson 17: Dictionaries](Dictionaries.ipynb)
-
-
-[Lesson 18: For Loop](For_Loops.ipynb)
-
-
-[Lesson 19: Conditionals](Conditionals.ipynb)
-
-
-[Lesson 20: Intro to Custom Functions](Intro_to_Custom_Functions.ipynb)
-
-[Lesson 21: custom function](custom_function.ipynb)
-
-
-[Lesson 22: Travel Budget project](Travel_Budget.ipynb)
-
-
-[Lesson 23:Student Grades project](Student_Grades.ipynb)
-
-
-[Lesson 24:water list project](water_list.ipynb)
-
-
-[Lesson 25:custom funcatuin example](custom_funcatuin_example.ipynb)
-
-
-[Lesson 26:mean Median mode](mean_Median_mode.ipynb)
-
-
-[Lesson 27:Central Tendency Functions](Central_Tendency_Functions_ass6.ipynb)
-
-
-[Lesson 28:markdown](markdown.ipynb)
-
-
-[Lesson 29:Sets](sets.ipynb)
-
-
-[Lesson 30:while loop](while_loop.ipynb)
-
-
-[Lesson 31: intro to pandas dataframe](intro_to_pandas_dataframe.ipynb)
-
-
-[Lesson 32: loading data](loading_data.ipynb)
-
-
-[Lesson 33: pandas dataframe](pandas_dataframe.ipynb)
-
-
-[Lesson 34: Titanic Datasete xample](Titanic_Dataset_example.ipynb)
-
-
-[Lesson 35: slicing & filtring](slicing.ipynb)
-
-
-[Lesson 36: Pandas Groupby](Pandas_Groupby.ipynb)
-
-
-[Lesson 37:Data Cleaning](stakeholders.ipynb)
-
-
-[Lesson 38:Exploratory Data Viz](Exploratory_Data_Viz.ipynb)
-
-
-[Lesson 39:Histogram](histogram.ipynb)
-
-
-[Lesson 40:Boxplots](Boxplots.ipynb)
-
-
-[Lesson 41:Univariate_Categorical_Plots](Univariate_Categorical_Plots.ipynb)
-
-
-[Lesson 42:Bar_Plots + Regression Plots + Correlation and Heat Maps](Bar_Plots.ipynb)
-
-
-[Lesson 43:Multivariate_Categorical_Plots](Multivariate_Categorical_Plots.ipynb)
-
-
-[Lesson 44:Customizing_Plots](Customizing_Plots.ipynb)
-
-
-[Lesson 45:Matplotlib_Styles](Matplotlib_Styles.ipynb)
-
-
-[Lesson 46:Saving_Plots_to_Files](Saving_Plots_to_Files.ipynb)
-
-
-[Lesson 47:Multiple_Subplots_Graphs_with_More_than_One_Subplot](Multiple_Subplots_Graphs_with_More_than_One_Subplot.ipynb)
-
-
-[Lesson 47:Combining_Plots](Combining_Plots.ipynb)
-
-
-[Lesson 47:Annotating_Histograms](Annotating_Histograms.ipynb)
-
-
-[Lesson 48:EDA_Functions_and_Inspecting_Features](EDA_Functions_and_Inspecting_Features_.ipynb)
-
-
-[Lesson 49:Bootcamp_Functions](Bootcamp_Functions.ipynb)
-
-
-[Lesson 50:Introduction_to_Machine-Learning](Introduction_toML_.ipynb)
-
-
-[Lesson 52:Pipelines](Pipelines.ipynb)
-
-
-[Lesson 53:Column_Transformers](Column_Transformers.ipynb)
-
-
-[Lesson 54:Linear_Regression_in_Python](Linear_Regression_in_Python.ipynb)
-
-
-[Lesson 55:Regression_Metrics and Regression Evaluation Functions](Regression_Metrics.ipynb)
-
-
-[Lesson 56:Model_Pipelines](Model_Pipelines.ipynb)
-
-
-[Lesson 57:Regression_Trees_in_Python](Regression_Trees_in_Python.ipynb)
-
-
-[Lesson 58:GridSearchCV](GridSearchCV.ipynb)
-
-
-[Lesson 59:GridSearch_and_Model_Pipelines](GridSearch_and_Model_Pipelines.ipynb)
-
-
-[Lesson 60:NEW_Saving_and_Loading_Models(joblib)](NEW_Saving_and_Loading_Models(joblib).ipynb)
-
-
-[Lesson 61:Bagged_Trees_in_Python](Bagged_Trees_in_Python.ipynb)
-
-
-[Lesson 62:Random_Forests_in_Python](Random_Forests_in_Python.ipynb)
-
-
-[Lesson 63:Update_EDA_Functions_for_Classification_1](Update_EDA_Functions_for_Classification_1.ipynb)
-
-
-[Lesson 64:Update_EDA_Functions_for_Classification_2](Update_EDA_Functions_for_Classification_2.ipynb)
-
-
-[Lesson 65 :Classification_Trees_in_Python](Classification_Trees_in_Python.ipynb)
-
-
-[Lesson 66:Confusion_Matrices_in_Python + Classification Evaluation Functions +Classification Metrics](Confusion_Matrices_in_Python.ipynb)
-
-
-[Lesson 65:Multiclassification](Multiclassification.ipynb)
-
-
-[Lesson 66:KNN](KNN.ipynb)
-
-
-[Lesson 67:KNN_(Practice)](KNN_(Practice).ipynb)
-
-
-[Lesson 68:Logistic_Regression](Logistic_Regression.ipynb)
-
-
-[Lesson 69:Purpose_of_L1_or_L2_Regularization](Purpose_of_L1_or_L2_Regularization.ipynb)
-
-
-[Lesson 70:ROC_Curves](ROC_Curves.ipynb)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 🚀 Data Science & Machine Learning Journey
+
+> A comprehensive repository documenting my complete journey in Data Science and Machine Learning — from Python fundamentals to advanced ML models.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-green?style=flat-square&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3-orange?style=flat-square&logo=scikit-learn)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Lessons](https://img.shields.io/badge/Lessons-70+-brightgreen?style=flat-square)
+
+---
+
+## 📚 Table of Contents
+
+- [🐍 Python Fundamentals](#-python-fundamentals)
+- [🏗️ Python Projects](#️-python-projects)
+- [🐼 Data Analysis with Pandas](#-data-analysis-with-pandas)
+- [📊 Data Visualization](#-data-visualization)
+- [🤖 Machine Learning — Regression](#-machine-learning--regression)
+- [🎯 Machine Learning — Classification](#-machine-learning--classification)
+- [🏆 Projects](#-projects)
+
+---
+
+## 🐍 Python Fundamentals
+
+| # | Topic | Notebook |
+|---|-------|----------|
+| 1 | Introduction to Python | [📓 View](About_Python.ipynb) |
+| 2 | Python Basics & DataTypes | [📓 View](Python_Basics_DataTypes.ipynb) |
+| 3 | Python Syntax | [📓 View](UPython_Syntax.ipynb) |
+| 4 | Functions | [📓 View](Funcation.ipynb) |
+| 5 | Functions Exercises | [📓 View](Assignment_(funcation).ipynb) |
+| 6 | OOP — Object Oriented Programming | [📓 View](OOP_(Object_Oriented_Programming).ipynb) |
+| 7 | Creating User Classes | [📓 View](Assignment_User_.ipynb) |
+| 8 | Declaring Variables & Primitive Data Types | [📓 View](Declaring_Variables_and_Primitive_Data_Types.ipynb) |
+| 9 | Variables Practice | [📓 View](Variables_and_Primitive_Data_Types.ipynb) |
+| 10 | Functional Programming & OOP | [📓 View](Functional_Programming_and_OOP.ipynb) |
+| 11 | Dictionaries | [📓 View](Dictionaries.ipynb) |
+| 12 | For Loops | [📓 View](For_Loops.ipynb) |
+| 13 | Conditionals | [📓 View](Conditionals.ipynb) |
+| 14 | Custom Functions | [📓 View](Intro_to_Custom_Functions.ipynb) |
+| 15 | Sets | [📓 View](sets.ipynb) |
+| 16 | While Loops | [📓 View](while_loop.ipynb) |
+| 17 | Mean, Median & Mode | [📓 View](mean_Median_mode.ipynb) |
+| 18 | Markdown | [📓 View](markdown.ipynb) |
+
+---
+
+## 🏗️ Python Projects
+
+| Project | Description | Notebook |
+|---------|-------------|----------|
+| 🏦 Bank Account | OOP-based banking system | [📓 View](Assignment_Bank_Account.ipynb) |
+| ☕ Smart Coffee Shop | Coffee shop management system | [📓 View](SmartCoffeeShop.ipynb) |
+| 💪 Fitness Tracker | Track workouts and progress | [📓 View](Fitness_Tracker.ipynb) |
+| 🏥 Patient Check-in | Hospital check-in system | [📓 View](Patient_Check_in.ipynb) |
+| 🛒 E-Commerce System | Online store simulation | [📓 View](E_Commerce_System.ipynb) |
+| 📚 Smart Library | Library management system | [📓 View](Smart_Library_System.ipynb) |
+| ✈️ Travel Budget | Travel expense calculator | [📓 View](Travel_Budget.ipynb) |
+| 🎓 Student Grades | Grade management system | [📓 View](Student_Grades.ipynb) |
+
+---
+
+## 🐼 Data Analysis with Pandas
+
+| # | Topic | Notebook |
+|---|-------|----------|
+| 1 | Intro to Pandas DataFrames | [📓 View](intro_to_pandas_dataframe.ipynb) |
+| 2 | Loading Data | [📓 View](loading_data.ipynb) |
+| 3 | Working with DataFrames | [📓 View](pandas_dataframe.ipynb) |
+| 4 | Titanic Dataset Example | [📓 View](Titanic_Dataset_example.ipynb) |
+| 5 | Slicing & Filtering | [📓 View](slicing.ipynb) |
+| 6 | Pandas GroupBy | [📓 View](Pandas_Groupby.ipynb) |
+| 7 | Data Cleaning | [📓 View](stakeholders.ipynb) |
+
+---
+
+## 📊 Data Visualization
+
+| # | Topic | Notebook |
+|---|-------|----------|
+| 1 | Exploratory Data Visualization | [📓 View](Exploratory_Data_Viz.ipynb) |
+| 2 | Histograms | [📓 View](histogram.ipynb) |
+| 3 | Boxplots | [📓 View](Boxplots.ipynb) |
+| 4 | Univariate Categorical Plots | [📓 View](Univariate_Categorical_Plots.ipynb) |
+| 5 | Bar Plots + Regression + Heatmaps | [📓 View](Bar_Plots.ipynb) |
+| 6 | Multivariate Categorical Plots | [📓 View](Multivariate_Categorical_Plots.ipynb) |
+| 7 | Customizing Plots | [📓 View](Customizing_Plots.ipynb) |
+| 8 | Matplotlib Styles | [📓 View](Matplotlib_Styles.ipynb) |
+| 9 | Saving Plots to Files | [📓 View](Saving_Plots_to_Files.ipynb) |
+| 10 | Multiple Subplots | [📓 View](Multiple_Subplots_Graphs_with_More_than_One_Subplot.ipynb) |
+| 11 | Combining Plots | [📓 View](Combining_Plots.ipynb) |
+| 12 | Annotating Histograms | [📓 View](Annotating_Histograms.ipynb) |
+
+---
+
+## 🤖 Machine Learning — Regression
+
+| # | Topic | Notebook |
+|---|-------|----------|
+| 1 | Introduction to Machine Learning | [📓 View](Introduction_toML_.ipynb) |
+| 2 | EDA Functions & Inspecting Features | [📓 View](EDA_Functions_and_Inspecting_Features_.ipynb) |
+| 3 | Bootcamp Functions | [📓 View](Bootcamp_Functions.ipynb) |
+| 4 | Pipelines | [📓 View](Pipelines.ipynb) |
+| 5 | Column Transformers | [📓 View](Column_Transformers.ipynb) |
+| 6 | Linear Regression in Python | [📓 View](Linear_Regression_in_Python.ipynb) |
+| 7 | Regression Metrics & Evaluation | [📓 View](Regression_Metrics.ipynb) |
+| 8 | Model Pipelines | [📓 View](Model_Pipelines.ipynb) |
+| 9 | Regression Trees | [📓 View](Regression_Trees_in_Python.ipynb) |
+| 10 | GridSearchCV | [📓 View](GridSearchCV.ipynb) |
+| 11 | GridSearch & Model Pipelines | [📓 View](GridSearch_and_Model_Pipelines.ipynb) |
+| 12 | Saving & Loading Models (joblib) | [📓 View](NEW_Saving_and_Loading_Models(joblib).ipynb) |
+| 13 | Bagged Trees | [📓 View](Bagged_Trees_in_Python.ipynb) |
+| 14 | Random Forests | [📓 View](Random_Forests_in_Python.ipynb) |
+
+---
+
+## 🎯 Machine Learning — Classification
+
+| # | Topic | Notebook |
+|---|-------|----------|
+| 1 | Update EDA Functions for Classification 1 | [📓 View](Update_EDA_Functions_for_Classification_1.ipynb) |
+| 2 | Update EDA Functions for Classification 2 | [📓 View](Update_EDA_Functions_for_Classification_2.ipynb) |
+| 3 | Classification Trees | [📓 View](Classification_Trees_in_Python.ipynb) |
+| 4 | Confusion Matrices + Classification Metrics | [📓 View](Confusion_Matrices_in_Python.ipynb) |
+| 5 | Multiclassification | [📓 View](Multiclassification.ipynb) |
+| 6 | K-Nearest Neighbors (KNN) | [📓 View](KNN.ipynb) |
+| 7 | KNN Practice | [📓 View](KNN_(Practice).ipynb) |
+| 8 | Logistic Regression | [📓 View](Logistic_Regression.ipynb) |
+| 9 | L1 & L2 Regularization | [📓 View](Purpose_of_L1_or_L2_Regularization.ipynb) |
+| 10 | ROC Curves & AUC | [📓 View](ROC_Curves.ipynb) |
+
+---
+
+## 🏆 Projects
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| 🏦 Loan Default Prediction | Predict loan defaults using ML classification models | Logistic Regression, Random Forest, KNN | [🔗 View Project](https://github.com/dohaalnabahin/Loan-Default-Prediction) |
+
+---
+
+## 📬 Connect
+
+**Doha Al-Nabahin**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/doha-samir12)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/dohaalnabahin)
+
+---
+
+*Self-directed Data Science & Machine Learning Journey | 2025 - 2026*
