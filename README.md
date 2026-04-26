@@ -132,6 +132,20 @@
 | 10 | ROC Curves & AUC | [📓 View](ROC_Curves.ipynb) |
 
 ---
+## 🔎 Model Interpretation & Explainability
+
+| # | Topic | Notebook |
+|---|-------|----------|
+| 1 | Insights for Stakeholders | [📓 View](Insights_for_Stakeholders.ipynb) |
+| 2 | Preprocessing | [📓 View](Insights_for_Stakeholders.ipynb) |
+| 3 | Feature Importance | [📓 View](Insights_for_Stakeholders.ipynb) |
+| 4 | Permutation Importance | [📓 View](Insights_for_Stakeholders.ipynb) |
+| 5 | Linear Regression Coefficients | [📓 View](Insights_for_Stakeholders.ipynb) |
+| 6 | Visualizing Coefficients | [📓 View](Insights_for_Stakeholders.ipynb) |
+| 7 | From Regression to Classification | [📓 View](Insights_for_Stakeholders.ipynb) |
+| 8 | Extracting Insights from a Pipeline | [📓 View](Extracting_Insights_from_a_Pipeline.ipynb) |
+
+---
 
 ## 🏆 Projects
 
