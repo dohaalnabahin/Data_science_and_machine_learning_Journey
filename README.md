@@ -153,7 +153,7 @@
 |---------|-------------|-------|------|
 | 🏦 Loan Default Prediction | Predict loan defaults using ML classification models | Logistic Regression, Random Forest, KNN | [🔗 View Project](https://github.com/dohaalnabahin/Loan-Default-Prediction) |
 | 🛒 Prediction of Product Sales | Analyze food item sales to identify key factors driving product performance | Pandas, Seaborn, Matplotlib | [🔗 View Project](https://github.com/dohaalnabahin/Prediction-of-Product-Sales) |
-| 🛒 Customer Churn Prediction | ML project predicting customer churn using classification models with feature importance analysis and coefficient interpretation|  Logistic Regression, Random Forest | [🔗 View Project]((https://github.com/dohaalnabahin/Customer-Churn-Prediction.git))|
+| 🛒 Customer Churn Prediction | ML project predicting customer churn using classification models with feature importance analysis and coefficient interpretation|  Logistic Regression, Random Forest | [🔗 View Project](https://github.com/dohaalnabahin/Customer-Churn-Prediction.git)|
 
 ---
 
