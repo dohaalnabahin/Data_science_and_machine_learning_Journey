@@ -151,10 +151,10 @@
 
 | # | Topic | Notebook |
 |---|-------|----------|
-| 1 | Unsupervised Learning | [📓 View](github.com/dohaalnabahin/Data_science_and_machine_learning_Journey/blob/main/PCA_for_Data_Visualization.ipynb) |
-| 2 | Why Do We Need Dimensionality Reduction? | [📓 View](github.com/dohaalnabahin/Data_science_and_machine_learning_Journey/blob/main/PCA_for_Data_Visualization.ipynb) |
-| 3 | Principal Component Analysis (PCA) | [📓 View](github.com/dohaalnabahin/Data_science_and_machine_learning_Journey/blob/main/PCA_for_Data_Visualization.ipynb) |
-| 4 | PCA for Data Visualization | [📓 View](github.com/dohaalnabahin/Data_science_and_machine_learning_Journey/blob/main/PCA_for_Data_Visualization.ipynb) |
+| 1 | Unsupervised Learning | [📓 View](PCA_for_Data_Visualization.ipynb) |
+| 2 | Why Do We Need Dimensionality Reduction? | [📓 View](PCA_for_Data_Visualization.ipynb) |
+| 3 | Principal Component Analysis (PCA) | [📓 View](PCA_for_Data_Visualization.ipynb) |
+| 4 | PCA for Data Visualization | [📓 View](PCA_for_Data_Visualization.ipynb) |
 | 5 | PCA for Supervised Machine Learning | [📓 View](PCA_for_Supervised_Machine_Learningipynb.ipynb) |
 
 ---
