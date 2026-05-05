@@ -158,6 +158,16 @@
 | 5 | PCA for Supervised Machine Learning | [📓 View](PCA_for_Supervised_Machine_Learningipynb.ipynb) |
 
 ---
+## 🛠️ Feature Engineering
+
+| # | Topic | Notebook |
+|---|-------|----------|
+| 1 | Overloaded Operators | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
+| 2 | Strings | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
+| 3 | Datetime | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
+| 4 | Functions & Lambda | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
+
+---
 
 ## 🏆 Projects
 
