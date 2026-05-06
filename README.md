@@ -20,7 +20,7 @@
 - [🎯 Machine Learning — Classification](#-machine-learning--classification)
 - [🔎 Model Interpretation & Explainability](#-model-interpretation--explainability)
 - [📉 Dimensionality Reduction](#-dimensionality-reduction)
-- [🛠️ Feature Engineering](#-feature-engineering)
+- [🛠️ Feature Engineering](#-dimensionality-reduction)
 - [🏆 Projects](#-projects)
 - [🏆 Projects](#-projects)
 
