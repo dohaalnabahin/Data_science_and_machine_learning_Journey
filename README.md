@@ -22,7 +22,6 @@
 - [📉 Dimensionality Reduction](#-dimensionality-reduction)
 - [🛠️ Feature Engineering](#-dimensionality-reduction)
 - [🏆 Projects](#-projects)
-- [🏆 Projects](#-projects)
 
 ---
 
