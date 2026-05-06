@@ -18,6 +18,10 @@
 - [📊 Data Visualization](#-data-visualization)
 - [🤖 Machine Learning — Regression](#-machine-learning--regression)
 - [🎯 Machine Learning — Classification](#-machine-learning--classification)
+- [🛠️ Feature Engineering](#-feature-engineering)
+- [📉 Dimensionality Reduction](#-dimensionality-reduction)
+- [🔎 Model Interpretation & Explainability](#-model-interpretation--explainability)
+- [🏆 Projects](#-projects)
 - [🏆 Projects](#-projects)
 
 ---
