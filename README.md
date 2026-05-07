@@ -169,7 +169,7 @@
 | 2 | Strings | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
 | 3 | Datetime | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
 | 4 | Functions & Lambda | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
-| 5 | Feature Selection 1 & 2 | [📓 View](Feature_Selection1_2.ipynb) |
+| 5 | Feature Selection 1 & 2 | [📓 View](https://nbviewer.org/github/dohaalnabahin/Data_science_and_machine_learning_Journey/blob/main/Feature_Selection1_2.ipynb)) |
 
 
 ---
