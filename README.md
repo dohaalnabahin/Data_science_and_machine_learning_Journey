@@ -21,7 +21,7 @@
 - [🔎 Model Interpretation & Explainability](#-model-interpretation--explainability)
 - [📉 Dimensionality Reduction](#-dimensionality-reduction)
 - [🛠️ Feature Engineering](#-dimensionality-reduction)
-- [🧩 Unsupervised Learning:Clustering](##unsupervised-learning-clustering)
+- [🧩 Unsupervised Learning:Clustering](#unsupervised-learning-clustering)
 - [🏆 Projects](#-projects)
 
 ---
