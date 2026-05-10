@@ -183,7 +183,7 @@
 | 2 | KMeans Clustering in Python | [📓 View](KMeans_Clustering_in_Python.ipynb) |
 | 3 | Clustering Evaluation Metrics | [📓 View](KMeans_Clustering_in_Python.ipynb) |
 | 4 | Explanatory Analysis of KMeans Clusters | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
-| 5 | Intro to Anomaly Detection | [📓 View](https://nbviewer.org/github/dohaalnabahin/Data_science_and_machine_learning_Journey/blob/main/Feature_Selection1_2.ipynb) |
+| 5 | Intro to Anomaly Detection | [📓 View](Intro_to_Anomaly_Detection.ipynb) |
 
 
 ---
