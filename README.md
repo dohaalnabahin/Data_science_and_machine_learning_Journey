@@ -22,6 +22,9 @@
 - [📉 Dimensionality Reduction](#-dimensionality-reduction)
 - [🛠️ Feature Engineering](#-dimensionality-reduction)
 - [🧩 Unsupervised Learning: Clustering](#-unsupervised-learningclustering)
+- [🧠 Intermediate Machine Learning: Deep Learning](#-Intermediate-Machine-Learning-Deep-Learning)
+
+
 - [🏆 Projects](#-projects)
 
 ---
@@ -185,6 +188,22 @@
 | 4 | Explanatory Analysis of KMeans Clusters | [📓 View](Feature_Engineering_Overloaded_Operators.ipynb) |
 | 5 | Intro to Anomaly Detection | [📓 View](Intro_to_Anomaly_Detection.ipynb) |
 
+
+---
+
+## 🧠 Intermediate Machine Learning: Deep Learning
+
+| # | Topic | Notebook |
+| --- | --- | --- |
+| 1 | Intro to Keras | [📓 View](https://www.google.com/search?q=Intro_to_Keras.ipynb) |
+| 2 | Adding More Metrics | [📓 View](https://www.google.com/search?q=Adding_More_Metrics.ipynb) |
+| 3 | Bias and Variance in Deep Learning | [📓 View](https://www.google.com/search?q=Bias_and_Variance_in_Deep_Learning.ipynb) |
+| 4 | Deep Learning Regularization | [📓 View](https://www.google.com/search?q=Deep_Learning_Regularization.ipynb) |
+| 5 | Early Stopping | [📓 View](https://www.google.com/search?q=Early_Stopping.ipynb) |
+| 6 | Keras Tuner | [📓 View](https://www.google.com/search?q=Keras_Tuner.ipynb) |
+| 7 | Regression Models in Keras | [📓 View](https://www.google.com/search?q=Regression_Models_in_Keras.ipynb) |
+| 8 | Binary Classification Models in Keras | [📓 View](https://www.google.com/search?q=Binary_Classification_Models_in_Keras.ipynb) |
+| 9 | Multiclass Classification in Keras | [📓 View](https://www.google.com/search?q=Multiclass_Classification_in_Keras.ipynb) |
 
 ---
 
