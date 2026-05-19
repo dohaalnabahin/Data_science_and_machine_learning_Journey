@@ -196,7 +196,7 @@
 | # | Topic | Notebook |
 | --- | --- | --- |
 | 1 | Intro to Keras | [📓 View](Intro_to_Keras.ipynb) |
-| 2 | Adding More Metrics | [📓 View](https://www.google.com/search?q=Adding_More_Metrics.ipynb) |
+| 2 | Adding More Metrics | [📓 View](Intro_to_Keras.ipynb) |
 | 3 | Bias and Variance in Deep Learning | [📓 View](https://www.google.com/search?q=Bias_and_Variance_in_Deep_Learning.ipynb) |
 | 4 | Deep Learning Regularization | [📓 View](https://www.google.com/search?q=Deep_Learning_Regularization.ipynb) |
 | 5 | Early Stopping | [📓 View](https://www.google.com/search?q=Early_Stopping.ipynb) |
