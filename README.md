@@ -197,9 +197,9 @@
 | --- | --- | --- |
 | 1 | Intro to Keras | [📓 View](Intro_to_Keras.ipynb) |
 | 2 | Adding More Metrics | [📓 View](Intro_to_Keras.ipynb) |
-| 3 | Bias and Variance in Deep Learning | [📓 View](https://www.google.com/search?q=Bias_and_Variance_in_Deep_Learning.ipynb) |
-| 4 | Deep Learning Regularization | [📓 View](https://www.google.com/search?q=Deep_Learning_Regularization.ipynb) |
-| 5 | Early Stopping | [📓 View](https://www.google.com/search?q=Early_Stopping.ipynb) |
+| 3 | Bias and Variance in Deep Learning | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 4 | Deep Learning Regularization | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 5 | Early Stopping | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 6 | Keras Tuner | [📓 View](https://www.google.com/search?q=Keras_Tuner.ipynb) |
 | 7 | Regression Models in Keras | [📓 View](https://www.google.com/search?q=Regression_Models_in_Keras.ipynb) |
 | 8 | Binary Classification Models in Keras | [📓 View](https://www.google.com/search?q=Binary_Classification_Models_in_Keras.ipynb) |
