@@ -200,7 +200,7 @@
 | 3 | Bias and Variance in Deep Learning | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 4 | Deep Learning Regularization | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 5 | Early Stopping | [📓 View](Deep_Learning_Regularization.ipynb) |
-| 6 | Keras Tuner | [📓 View](https://www.google.com/search?q=Keras_Tuner.ipynb) |
+| 6 | Keras Tuner | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 7 | Regression Models in Keras | [📓 View](https://www.google.com/search?q=Regression_Models_in_Keras.ipynb) |
 | 8 | Binary Classification Models in Keras | [📓 View](https://www.google.com/search?q=Binary_Classification_Models_in_Keras.ipynb) |
 | 9 | Multiclass Classification in Keras | [📓 View](https://www.google.com/search?q=Multiclass_Classification_in_Keras.ipynb) |
