@@ -23,8 +23,7 @@
 - [🛠️ Feature Engineering](#-dimensionality-reduction)
 - [🧩 Unsupervised Learning: Clustering](#-unsupervised-learningclustering)
 - [🧠 Intermediate Machine Learning: Deep Learning](#-Intermediate-Machine-Learning-Deep-Learning)
-- [🖥️ CNNs & Computer Vision](#-cnns--computer-vision)
-- 
+- [🖥️ CNNs & Computer Vision](#️-cnns--computer-vision)- 
 
 - [🏆 Projects](#-projects)
 
