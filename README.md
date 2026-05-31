@@ -214,8 +214,8 @@
 
 | # | Topic | Notebook |
 | --- | --- | --- |
-| 1 | Working with Images| [📓 View](Intro_to_Keras.ipynb) |
-| 2 | CNNs in Python | [📓 View](Intro_to_Keras.ipynb) |
+| 1 | Working with Images| [📓 View](Working_with_Images.ipynb) |
+| 2 | CNNs in Python | [📓 View](CNNs_in_Python.ipynb) |
 
 
 ## 🏆 Projects
@@ -225,6 +225,7 @@
 | 🏦 Loan Default Prediction | Predict loan defaults using ML classification models | Logistic Regression, Random Forest, KNN | [🔗 View Project](https://github.com/dohaalnabahin/Loan-Default-Prediction) |
 | 🛒 Prediction of Product Sales | Analyze food item sales to identify key factors driving product performance | Pandas, Seaborn, Matplotlib | [🔗 View Project](https://github.com/dohaalnabahin/Prediction-of-Product-Sales) |
 | 📱 Customer Churn Prediction | ML project predicting customer churn using classification models with feature importance analysis and coefficient interpretation|  Logistic Regression, Random Forest | [🔗 View Project](https://github.com/dohaalnabahin/Customer-Churn-Prediction.git)|
+| 🚗 Car Insurance Claims Prediction | Car insurance companies face significant financial risk when customers file unexpected claims. Accurate prediction of claim likelihood enables smarter premium pricing and better risk management.| Random Forest, Neural Network | [🔗 View Project](https://github.com/dohaalnabahin/Car-Insurance-Claims-Prediction.git)|
 
 ---
 
