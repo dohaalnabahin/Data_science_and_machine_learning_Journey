@@ -26,7 +26,6 @@
 - [🖥️ CNNs & Computer Vision](#cnns--computer-vision)
 
 
-
 - [🏆 Projects](#-projects)
 
 ---
