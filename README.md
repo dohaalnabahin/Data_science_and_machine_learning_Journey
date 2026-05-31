@@ -23,6 +23,8 @@
 - [🛠️ Feature Engineering](#-dimensionality-reduction)
 - [🧩 Unsupervised Learning: Clustering](#-unsupervised-learningclustering)
 - [🧠 Intermediate Machine Learning: Deep Learning](#-Intermediate-Machine-Learning-Deep-Learning)
+- [👁️‍🗨️ CNNs & Computer Vision](#CNNs---Computer-Vision)
+
 
 
 - [🏆 Projects](#-projects)
@@ -206,6 +208,15 @@
 | 9 | Multiclass Classification in Keras | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
 
 ---
+
+
+## 👁️‍🗨️ CNNs & Computer Vision
+
+| # | Topic | Notebook |
+| --- | --- | --- |
+| 1 | Working with Images| [📓 View](Intro_to_Keras.ipynb) |
+| 2 | CNNs in Python | [📓 View](Intro_to_Keras.ipynb) |
+
 
 ## 🏆 Projects
 
