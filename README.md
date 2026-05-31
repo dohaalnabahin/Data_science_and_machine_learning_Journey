@@ -212,7 +212,7 @@
 
 | # | Topic | Notebook |
 | --- | --- | --- |
-| 1 | Working with Images| [📓 View](nbviewer.org/Working_with_Images.ipynb) |
+| 1 | Working with Images| [📓 View](Working_with_Images.ipynb) |
 | 2 | CNNs in Python | [📓 View](CNNs_in_Python.ipynb) |
 
 
