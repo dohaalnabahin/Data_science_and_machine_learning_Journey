@@ -226,7 +226,7 @@
 | # | Topic | Notebook |
 | --- | --- | --- |
 | 1 | Time Series Basics | [📓 View](Intro_to_Time_Series_in_Python.ipynb) |
-| 2 | Panda's Datetime Functionality | [📓 View](Intro_to_Keras.ipynb) |
+| 2 | Panda's Datetime Functionality | [📓 View](Pandas_datetime.ipynb) |
 | 3 | Custom Formats and Errors | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 4 | Timedeltas & Date Ranges | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 5 | Time Series Visualizations | [📓 View](Deep_Learning_Regularization.ipynb) |
