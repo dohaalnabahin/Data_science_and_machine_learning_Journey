@@ -23,7 +23,10 @@
 - [🛠️ Feature Engineering](#-dimensionality-reduction)
 - [🧩 Unsupervised Learning: Clustering](#-unsupervised-learningclustering)
 - [🧠 Intermediate Machine Learning: Deep Learning](#-Intermediate-Machine-Learning-Deep-Learning)
-- [🖥️ CNNs & Computer Vision](#️-cnns--computer-vision)- 
+- [🖥️ CNNs & Computer Vision](#️-cnns--computer-vision)-
+- [⏱️ Time Series Analysis](#️-Time-Series-Analysis)-
+
+
 
 - [🏆 Projects](#-projects)
 
@@ -214,6 +217,33 @@
 | --- | --- | --- |
 | 1 | Working with Images| [📓 View](Working_with_Images.ipynb) |
 | 2 | CNNs in Python | [📓 View](CNNs_in_Python.ipynb) |
+
+
+---
+
+## ⏱️ Time Series Analysis
+
+| # | Topic | Notebook |
+| --- | --- | --- |
+| 1 | Time Series Basics | [📓 View](Intro_to_Time_Series_in_Python.ipynb) |
+| 2 | Panda's Datetime Functionality | [📓 View](Intro_to_Keras.ipynb) |
+| 3 | Custom Formats and Errors | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 4 | Timedeltas & Date Ranges | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 5 | Time Series Visualizations | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 6 | Overhauling Matplotlib Defaults | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 7 | Resampling and Imputation | [📓 View](Regression_Models_in_Keras.ipynb) |
+| 8 | Preparing Wide Form Time Data | [📓 View](Binary_Classification_Models_in_Keras.ipynb) |
+| 9 | Plotting Data with Different Units | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
+| 10 | Time Series Stats | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 11 | Normalizing Time Series | [📓 View](Regression_Models_in_Keras.ipynb) |
+| 12 | Preparing Non-Uniform Time Data | [📓 View](Binary_Classification_Models_in_Keras.ipynb) |
+| 13 | Timezones | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
+| 14 | Binning Time Series | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 15 | Seasonality | [📓 View](Regression_Models_in_Keras.ipynb) |
+| 16 | Feature Engineering: Holidays | [📓 View](Binary_Classification_Models_in_Keras.ipynb) |
+| 17 | Stakeholder Questions | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
+
+---
 
 
 ## 🏆 Projects
