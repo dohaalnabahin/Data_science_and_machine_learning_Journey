@@ -229,7 +229,7 @@
 | 2 | Panda's Datetime Functionality | [📓 View](Pandas_datetime.ipynb) |
 | 3 | Custom Formats and Errors | [📓 View](Custom_Formats_and_Errors.ipynb) |
 | 4 | Timedeltas & Date Ranges | [📓 View](Timedeltas_Date_Ranges.ipynb) |
-| 5 | Time Series Visualizations | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 5 | Time Series Visualizations | [📓 View](Timedeltas_Date_Ranges.ipynb) |
 | 6 | Overhauling Matplotlib Defaults | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 7 | Resampling and Imputation | [📓 View](Regression_Models_in_Keras.ipynb) |
 | 8 | Preparing Wide Form Time Data | [📓 View](Binary_Classification_Models_in_Keras.ipynb) |
