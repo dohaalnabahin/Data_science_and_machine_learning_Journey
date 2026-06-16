@@ -232,11 +232,11 @@
 | 5 | Time Series Visualizations | [📓 View](Timedeltas_Date_Ranges.ipynb) |
 | 6 | Overhauling Matplotlib Defaults | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 7 | Resampling and Imputation | [📓 View](Regression_Models_in_Keras.ipynb) |
-| 8 | Preparing Wide Form Time Data | [📓 View](Binary_Classification_Models_in_Keras.ipynb) |
+| 8 | Preparing Wide Form Time Data | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
 | 9 | Plotting Data with Different Units | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
 | 10 | Time Series Stats | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 11 | Normalizing Time Series | [📓 View](Regression_Models_in_Keras.ipynb) |
-| 12 | Preparing Non-Uniform Time Data | [📓 View](Binary_Classification_Models_in_Keras.ipynb) |
+| 12 | Preparing Non-Uniform Time Data | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
 | 13 | Timezones | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
 | 14 | Binning Time Series | [📓 View](Deep_Learning_Regularization.ipynb) |
 | 15 | Seasonality | [📓 View](Regression_Models_in_Keras.ipynb) |
