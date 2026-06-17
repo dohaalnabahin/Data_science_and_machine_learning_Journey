@@ -234,7 +234,7 @@
 | 7 | Resampling and Imputation | [📓 View](timeseries.ipynb) |
 | 8 | Preparing Wide Form Time Data | [📓 View](timeseries.ipynb) |
 | 9 | Plotting Data with Different Units | [📓 View](timeseries.ipynb) |
-| 10 | Time Series Stats | [📓 View](Deep_Learning_Regularization.ipynb) |
+| 10 | Time Series Stats | [📓 View](timeseries.ipynb) |
 | 11 | Normalizing Time Series | [📓 View](timeseries.ipynb) |
 | 12 | Preparing Non-Uniform Time Data | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
 | 13 | Timezones | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
