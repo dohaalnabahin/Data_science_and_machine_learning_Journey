@@ -225,17 +225,17 @@
 
 | # | Topic | Notebook |
 | --- | --- | --- |
-| 1 | Time Series Basics | [📓 View](Intro_to_Time_Series_in_Python.ipynb) |
-| 2 | Panda's Datetime Functionality | [📓 View](Pandas_datetime.ipynb) |
-| 3 | Custom Formats and Errors | [📓 View](Custom_Formats_and_Errors.ipynb) |
-| 4 | Timedeltas & Date Ranges | [📓 View](Timedeltas_Date_Ranges.ipynb) |
-| 5 | Time Series Visualizations | [📓 View](Timedeltas_Date_Ranges.ipynb) |
-| 6 | Overhauling Matplotlib Defaults | [📓 View](Deep_Learning_Regularization.ipynb) |
-| 7 | Resampling and Imputation | [📓 View](Regression_Models_in_Keras.ipynb) |
-| 8 | Preparing Wide Form Time Data | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
-| 9 | Plotting Data with Different Units | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
+| 1 | Time Series Basics | [📓 View](timeseries.ipynb) |
+| 2 | Panda's Datetime Functionality | [📓 View](timeseries.ipynb) |
+| 3 | Custom Formats and Errors | [📓 View](timeseries.ipynb) |
+| 4 | Timedeltas & Date Ranges | [📓 View](timeseries.ipynb) |
+| 5 | Time Series Visualizations | [📓 View](timeseries.ipynb) |
+| 6 | Overhauling Matplotlib Defaults | [📓 View](timeseries.ipynb) |
+| 7 | Resampling and Imputation | [📓 View](timeseries.ipynb) |
+| 8 | Preparing Wide Form Time Data | [📓 View](timeseries.ipynb) |
+| 9 | Plotting Data with Different Units | [📓 View](timeseries.ipynb) |
 | 10 | Time Series Stats | [📓 View](Deep_Learning_Regularization.ipynb) |
-| 11 | Normalizing Time Series | [📓 View](Regression_Models_in_Keras.ipynb) |
+| 11 | Normalizing Time Series | [📓 View](timeseries.ipynb) |
 | 12 | Preparing Non-Uniform Time Data | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
 | 13 | Timezones | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
 | 14 | Binning Time Series | [📓 View](Deep_Learning_Regularization.ipynb) |
