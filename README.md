@@ -241,7 +241,7 @@
 | 14 | Binning Time Series | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
 | 15 | Seasonality | [📓 View](Seasonality.ipynb) |
 | 16 | Feature Engineering: Holidays | [📓 View](Feature_Engineering_Holidays.ipynb) |
-| 17 | Stakeholder Questions | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
+| 17 | Stakeholder Questions | [📓 View](Stakeholder_Questions.ipynb) |
 
 ---
 
