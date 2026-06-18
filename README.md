@@ -240,7 +240,7 @@
 | 13 | Timezones | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
 | 14 | Binning Time Series | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
 | 15 | Seasonality | [📓 View](Seasonality.ipynb) |
-| 16 | Feature Engineering: Holidays | [📓 View](Binary_Classification_Models_in_Keras.ipynb) |
+| 16 | Feature Engineering: Holidays | [📓 View](Feature_Engineering_Holidays.ipynb) |
 | 17 | Stakeholder Questions | [📓 View](Multiclass_Classification_in_Keras.ipynb) |
 
 ---
