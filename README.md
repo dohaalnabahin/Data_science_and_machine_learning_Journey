@@ -251,7 +251,7 @@
 | --- | --- | --- |
 | 1  | Introduction to Time Series Modeling | [📓 View](Introduction_to_Time_Series_Modeling.ipynb) |
 | 2  | Stationarity | [📓 View](Stationarity.ipynb) |
-| 3  | Autocorrelation | [📓 View](Stationarity_Autocorrelation.ipynb) |
+| 3  | Autocorrelation | [📓 View](Stationarity.ipynb) |
 | 4  | Autoregressive (AR) Models | [📓 View](timeseries.ipynb) |
 | 5  | Moving Average (MA) Models | [📓 View](timeseries.ipynb) |
 | 6  | MA, RA, ARMA Models (Practice) | [📓 View](timeseries.ipynb) |
