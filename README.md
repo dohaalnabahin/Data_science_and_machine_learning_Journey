@@ -25,6 +25,7 @@
 - [🧠 Intermediate Machine Learning: Deep Learning](#-Intermediate-Machine-Learning-Deep-Learning)
 - [🖥️ CNNs & Computer Vision](#️-cnns--computer-vision)
 - [⏱️ Time Series Analysis](#️-Time-Series-Analysis)
+- [🔮 Time Series Forecasting](#️-Time-Series-Forecasting)
 
 
 
@@ -245,6 +246,24 @@
 
 ---
 
+## 🔮 Time Series Forecasting
+
+| # | Topic | Notebook |
+| --- | --- | --- |
+| 1  | Introduction to Time Series Modeling | [📓 View](timeseries.ipynb) |
+| 2  | Stationarity | [📓 View](timeseries.ipynb) |
+| 3  | Autocorrelation | [📓 View](timeseries.ipynb) |
+| 4  | Autoregressive (AR) Models | [📓 View](timeseries.ipynb) |
+| 5  | Moving Average (MA) Models | [📓 View](timeseries.ipynb) |
+| 6  | MA, RA, ARMA Models (Practice) | [📓 View](timeseries.ipynb) |
+| 7  | Comparing Models | [📓 View](timeseries.ipynb) |
+| 8  | ARIMA Models | [📓 View](timeseries.ipynb) |
+| 9  | Seasonality in Modeling (SARIMA) | [📓 View](timeseries.ipynb) |
+| 10 | Extracting Future Forecasts | [📓 View](timeseries.ipynb) |
+| 11 | GridSearch SARIMA | [📓 View](timeseries.ipynb) |
+| 12 | Overall Workflow | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
+
+---
 
 ## 🏆 Projects
 
