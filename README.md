@@ -25,8 +25,7 @@
 - [🧠 Intermediate Machine Learning: Deep Learning](#-Intermediate-Machine-Learning-Deep-Learning)
 - [🖥️ CNNs & Computer Vision](#️-cnns--computer-vision)
 - [⏱️ Time Series Analysis](#️-Time-Series-Analysis)
-- [🔮 Time Series Forecasting](#️-Time-Series-Forecasting)
-
+- [🔮 Time Series Forecasting](#-time-series-forecasting)
 
 
 - [🏆 Projects](#-projects)
