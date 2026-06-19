@@ -250,7 +250,7 @@
 | # | Topic | Notebook |
 | --- | --- | --- |
 | 1  | Introduction to Time Series Modeling | [📓 View](Introduction_to_Time_Series_Modeling.ipynb) |
-| 2  | Stationarity | [📓 View](timeseries.ipynb) |
+| 2  | Stationarity | [📓 View](Stationarity.ipynb) |
 | 3  | Autocorrelation | [📓 View](timeseries.ipynb) |
 | 4  | Autoregressive (AR) Models | [📓 View](timeseries.ipynb) |
 | 5  | Moving Average (MA) Models | [📓 View](timeseries.ipynb) |
