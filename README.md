@@ -253,7 +253,7 @@
 | 2  | Stationarity | [📓 View](Stationarity.ipynb) |
 | 3  | Autocorrelation | [📓 View](Stationarity.ipynb) |
 | 4  | Autoregressive (AR) Models | [📓 View](Autoregressive_(AR)_Models.ipynb) |
-| 5  | Moving Average (MA) Models | [📓 View](timeseries.ipynb) |
+| 5  | Moving Average (MA) Models | [📓 View](Moving_Average_(MA)_Models.ipynb) |
 | 6  | MA, RA, ARMA Models (Practice) | [📓 View](timeseries.ipynb) |
 | 7  | Comparing Models | [📓 View](timeseries.ipynb) |
 | 8  | ARIMA Models | [📓 View](timeseries.ipynb) |
