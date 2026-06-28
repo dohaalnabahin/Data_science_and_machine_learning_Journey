@@ -257,9 +257,9 @@
 | 6  | MA, RA, ARMA Models (Practice) | [📓 View](MA_RA_ARMA_Models_(Practice).ipynb) |
 | 7  | Comparing Models | [📓 View](Moving_Average_(MA)_Models_Comparing_Models.ipynb) |
 | 8  | ARIMA Models | [📓 View](ARIMA_Models.ipynb) |
-| 9  | Seasonality in Modeling (SARIMA) | [📓 View](timeseries.ipynb) |
-| 10 | Extracting Future Forecasts | [📓 View](timeseries.ipynb) |
-| 11 | GridSearch SARIMA | [📓 View](timeseries.ipynb) |
+| 9  | Seasonality in Modeling (SARIMA) | [📓 View](SARIMA.ipynb) |
+| 10 | Extracting Future Forecasts | [📓 View](SARIMA.ipynb) |
+| 11 | GridSearch SARIMA | [📓 View](GridSearch_SARIMA.ipynb) |
 | 12 | Overall Workflow | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
 
 ---
