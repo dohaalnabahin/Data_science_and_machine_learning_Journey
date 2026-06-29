@@ -260,7 +260,7 @@
 | 9  | Seasonality in Modeling (SARIMA) | [📓 View](SARIMA.ipynb) |
 | 10 | Extracting Future Forecasts | [📓 View](SARIMA.ipynb) |
 | 11 | GridSearch SARIMA | [📓 View](GridSearch_SARIMA.ipynb) |
-| 12 | Overall Workflow | [📓 View](Preparing_Non_Uniform_Time_Data.ipynb) |
+| 12 | Overall Workflow | [📓 View](Overall_Workflow.ipynb) |
 
 ---
 
