@@ -272,6 +272,7 @@
 | 🛒 Prediction of Product Sales | Analyze food item sales to identify key factors driving product performance | Pandas, Seaborn, Matplotlib | [🔗 View Project](https://github.com/dohaalnabahin/Prediction-of-Product-Sales) |
 | 📱 Customer Churn Prediction | ML project predicting customer churn using classification models with feature importance analysis and coefficient interpretation|  Logistic Regression, Random Forest | [🔗 View Project](https://github.com/dohaalnabahin/Customer-Churn-Prediction.git)|
 | 🚗 Car Insurance Claims Prediction | Car insurance companies face significant financial risk when customers file unexpected claims. Accurate prediction of claim likelihood enables smarter premium pricing and better risk management.| Random Forest, Neural Network | [🔗 View Project](https://github.com/dohaalnabahin/Car-Insurance-Claims-Prediction.git)|
+| 🚔 Chicago Crime Time Series Analysis & Forecasting | Chicago crime patterns from 2001 to 2022 were analyzed to identify trends across districts, years, rush hours, and holidays. Time series forecasting was also used to predict Theft and Narcotics crimes for the next 6 months to support better law enforcement resource allocation. | Python, Pandas, Matplotlib, Seaborn, Statsmodels, SARIMA, Pmdarima | [🔗 View Project](https://github.com/dohaalnabahin/chicago-crime-time-series-analysis.git) |
 
 ---
 
